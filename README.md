@@ -21,7 +21,7 @@ Other references.
 
 ## Demo
 
-![Alt text](/MelodyTimer_pig_type.JPG)
+![Alt text](/DEMO/MelodyTimer_Type_pig.gif)
 
 ## Prerequisites
 
